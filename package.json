@@ -1,0 +1,10 @@
+{
+  "name": "camunda-ibm-mainframe-handoff-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mainframe handoff ledger connecting IBM batch dependencies to Camunda exception routing.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
