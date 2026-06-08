@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/camunda-ibm-mainframe-handoff-ledger/sitemap.xml
